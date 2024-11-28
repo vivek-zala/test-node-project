@@ -1,0 +1,11 @@
+{
+  "name": "test-node-project",
+  "version": "1.0.0",
+  "description": "Sample project to configure and test circleci",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Vivek",
+  "license": "ISC"
+}
